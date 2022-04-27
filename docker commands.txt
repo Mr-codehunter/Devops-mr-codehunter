@@ -1,0 +1,5 @@
+A. docker container ls
+B. docker exec-it namenode/bin/bash
+C. hdfs dfs-ls/
+D. hdfs dfs-mkdir -p /user/root
+E. hdfs 
